@@ -1,0 +1,92 @@
+{
+  "uid" : "19edaaafa97c3419",
+  "name" : "uploadAudio",
+  "title" : "Upload audio",
+  "time" : {
+    "start" : 1496307640162,
+    "stop" : 1496307646019,
+    "duration" : 5857
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "Upload Audio",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "e60cd8d2cb787ba9",
+    "name" : "Auth Suite : MediaLibrary",
+    "title" : "Auth Suite : MediaLibrary"
+  },
+  "steps" : [ {
+    "name" : "selectAssetsTypeAudio",
+    "title" : "Select assets type audio",
+    "time" : {
+      "start" : 1496307640162,
+      "stop" : 1496307644430,
+      "duration" : 4268
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "uploadAudio[/home/travis/build/Orfik/N2PS-AutoTests/src/test/resources/Audio1.mp3]",
+    "title" : "Upload audio [/home/travis/build/Orfik/N2PS-AutoTests/src/test/resources/Audio1.mp3]",
+    "time" : {
+      "start" : 1496307644430,
+      "stop" : 1496307646018,
+      "duration" : 1588
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ {
+    "name" : "8",
+    "url" : "8"
+  } ],
+  "labels" : [ {
+    "name" : "testId",
+    "value" : "8"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Auth Suite : MediaLibrary"
+  }, {
+    "name" : "host",
+    "value" : "testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61"
+  }, {
+    "name" : "suite-name",
+    "value" : "Auth Suite : MediaLibrary"
+  }, {
+    "name" : "story",
+    "value" : "Upload Audio"
+  }, {
+    "name" : "thread",
+    "value" : "6686@testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61.TestNG-tests-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "feature",
+    "value" : "Upload Audio"
+  } ],
+  "parameters" : [ ]
+}

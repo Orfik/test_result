@@ -1,0 +1,77 @@
+{
+  "uid" : "e21fa17d9010b2ea",
+  "name" : "createFirstArticle[qa@storied.co,zxc123,company api]",
+  "title" : "Create first article [qa@storied.co,zxc123,company api]",
+  "time" : {
+    "start" : 1496307416282,
+    "stop" : 1496307428233,
+    "duration" : 11951
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "creation first article",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "334c20d3cce8c732",
+    "name" : "Auth Suite : Creation Project",
+    "title" : "Auth Suite : Creation Project"
+  },
+  "steps" : [ {
+    "name" : "createFirstArticle",
+    "title" : "Create first article",
+    "time" : {
+      "start" : 1496307416282,
+      "stop" : 1496307428207,
+      "duration" : 11925
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ {
+    "name" : "4",
+    "url" : "4"
+  } ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-name",
+    "value" : "Auth Suite : Creation Project"
+  }, {
+    "name" : "host",
+    "value" : "testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61"
+  }, {
+    "name" : "story",
+    "value" : "Creation First Article"
+  }, {
+    "name" : "feature",
+    "value" : "Creation projects"
+  }, {
+    "name" : "thread",
+    "value" : "6686@testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61.TestNG-tests-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testId",
+    "value" : "4"
+  }, {
+    "name" : "suite-title",
+    "value" : "Auth Suite : Creation Project"
+  } ],
+  "parameters" : [ ]
+}

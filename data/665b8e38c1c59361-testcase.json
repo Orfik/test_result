@@ -1,0 +1,152 @@
+{
+  "uid" : "665b8e38c1c59361",
+  "name" : "openMediaLibrary[qa@storied.co,zxc123,company api]",
+  "title" : "Open media library [qa@storied.co,zxc123,company api]",
+  "time" : {
+    "start" : 1496307614029,
+    "stop" : 1496307624377,
+    "duration" : 10348
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 6
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "open media library",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "e60cd8d2cb787ba9",
+    "name" : "Auth Suite : MediaLibrary",
+    "title" : "Auth Suite : MediaLibrary"
+  },
+  "steps" : [ {
+    "name" : "openSinInPage",
+    "title" : "Open sin in page",
+    "time" : {
+      "start" : 1496307614030,
+      "stop" : 1496307614768,
+      "duration" : 738
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "fillSignInForm[qa@storied.co, zxc123]",
+    "title" : "Fill sign in form [qa@storied.co, zxc123]",
+    "time" : {
+      "start" : 1496307614768,
+      "stop" : 1496307615051,
+      "duration" : 283
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickSignInButton",
+    "title" : "Click sign in button",
+    "time" : {
+      "start" : 1496307615051,
+      "stop" : 1496307615139,
+      "duration" : 88
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "openStudioPage",
+    "title" : "Open studio page",
+    "time" : {
+      "start" : 1496307615139,
+      "stop" : 1496307619499,
+      "duration" : 4360
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "openProject",
+    "title" : "Open project",
+    "time" : {
+      "start" : 1496307619499,
+      "stop" : 1496307620737,
+      "duration" : 1238
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "openMediaLibrary",
+    "title" : "Open media library",
+    "time" : {
+      "start" : 1496307620737,
+      "stop" : 1496307624377,
+      "duration" : 3640
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ {
+    "name" : "5",
+    "url" : "5"
+  } ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Auth Suite : MediaLibrary"
+  }, {
+    "name" : "host",
+    "value" : "testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61"
+  }, {
+    "name" : "suite-name",
+    "value" : "Auth Suite : MediaLibrary"
+  }, {
+    "name" : "thread",
+    "value" : "6686@testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61.TestNG-tests-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "story",
+    "value" : "Open Library"
+  }, {
+    "name" : "testId",
+    "value" : "5"
+  }, {
+    "name" : "feature",
+    "value" : "Open Library"
+  } ],
+  "parameters" : [ ]
+}

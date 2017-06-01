@@ -1,0 +1,107 @@
+{
+  "uid" : "9fe8593fc9af48c5",
+  "name" : "authInvalid[dancalya+227@gmail.com,123456,You must confirm the email.]",
+  "title" : "Auth invalid [dancalya+227@gmail.com,123456,You must confirm the email.]",
+  "time" : {
+    "start" : 1496307397493,
+    "stop" : 1496307398499,
+    "duration" : 1006
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "incorrect login",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "8141425043ddcca",
+    "name" : "Auth Suite : Authorization",
+    "title" : "Auth Suite : Authorization"
+  },
+  "steps" : [ {
+    "name" : "openSinInPage",
+    "title" : "Open sin in page",
+    "time" : {
+      "start" : 1496307397494,
+      "stop" : 1496307397791,
+      "duration" : 297
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "fillSignInForm[dancalya+227@gmail.com, 123456]",
+    "title" : "Fill sign in form [dancalya+227@gmail.com, 123456]",
+    "time" : {
+      "start" : 1496307397791,
+      "stop" : 1496307398104,
+      "duration" : 313
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickSignInButton",
+    "title" : "Click sign in button",
+    "time" : {
+      "start" : 1496307398104,
+      "stop" : 1496307398184,
+      "duration" : 80
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ {
+    "name" : "1",
+    "url" : "1"
+  } ],
+  "labels" : [ {
+    "name" : "suite-title",
+    "value" : "Auth Suite : Authorization"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "host",
+    "value" : "testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61"
+  }, {
+    "name" : "suite-name",
+    "value" : "Auth Suite : Authorization"
+  }, {
+    "name" : "testId",
+    "value" : "1"
+  }, {
+    "name" : "thread",
+    "value" : "6686@testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61.TestNG-tests-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "story",
+    "value" : "Incorrect login"
+  }, {
+    "name" : "feature",
+    "value" : "Authorozation"
+  } ],
+  "parameters" : [ ]
+}

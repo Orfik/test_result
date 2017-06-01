@@ -1,0 +1,92 @@
+{
+  "uid" : "75b6775547a01b54",
+  "name" : "uploadFonts",
+  "title" : "Upload fonts",
+  "time" : {
+    "start" : 1496307646020,
+    "stop" : 1496307649577,
+    "duration" : 3557
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "Upload Fonts",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "e60cd8d2cb787ba9",
+    "name" : "Auth Suite : MediaLibrary",
+    "title" : "Auth Suite : MediaLibrary"
+  },
+  "steps" : [ {
+    "name" : "selectAssetsTypeFonts",
+    "title" : "Select assets type fonts",
+    "time" : {
+      "start" : 1496307646020,
+      "stop" : 1496307648300,
+      "duration" : 2280
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "uploadFonts[/home/travis/build/Orfik/N2PS-AutoTests/src/test/resources/FontWOFF.woff]",
+    "title" : "Upload fonts [/home/travis/build/Orfik/N2PS-AutoTests/src/test/resources/FontWOFF.woff]",
+    "time" : {
+      "start" : 1496307648300,
+      "stop" : 1496307649577,
+      "duration" : 1277
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "testIds" : [ {
+    "name" : "7",
+    "url" : "7"
+  } ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testId",
+    "value" : "7"
+  }, {
+    "name" : "suite-title",
+    "value" : "Auth Suite : MediaLibrary"
+  }, {
+    "name" : "host",
+    "value" : "testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61"
+  }, {
+    "name" : "feature",
+    "value" : "Upload Fonts"
+  }, {
+    "name" : "story",
+    "value" : "Upload Fonts"
+  }, {
+    "name" : "suite-name",
+    "value" : "Auth Suite : MediaLibrary"
+  }, {
+    "name" : "thread",
+    "value" : "6686@testing-gce-d32868f5-df6b-48ef-b78d-4b2eb15c5c61.TestNG-tests-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  } ],
+  "parameters" : [ ]
+}
